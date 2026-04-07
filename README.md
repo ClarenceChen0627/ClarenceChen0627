@@ -18,10 +18,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Summary
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ClarenceChen0627)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClarenceChen0627)
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/ClarenceChen0627/ClarenceChen0627/main/profile-summary-card-output/default/0-profile-details.svg" />
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/ClarenceChen0627/ClarenceChen0627/main/profile-summary-card-output/default/2-most-commit-language.svg" />
+</td>
+</tr>
+</table>
 
 ---
 
