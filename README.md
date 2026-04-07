@@ -55,7 +55,6 @@
 ## 📫 Contact
 
 <p>
-<a href="mailto:1396833013@qq.com"><img src="https://img.shields.io/badge/Email-lpageo%40163.com-263238?style=for-the-badge&logo=gmail&logoColor=FF5722" /></a>
+<a href="mailto:ClarenceChen0627@outlook.com"><img src="https://img.shields.io/badge/Email-ClarenceChen0627%40outlook.com-263238?style=for-the-badge&logo=gmail&logoColor=FF5722" /></a>
 <a href="https://github.com/ClarenceChen0627"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://github-badge-counter-q1wo.vercel.app/api/counter?label=Views&color=blueviolet&logo=eye" />
 </p>
