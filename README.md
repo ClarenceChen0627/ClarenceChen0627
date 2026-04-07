@@ -31,31 +31,17 @@
 </tr>
 </table>
 
+<br>
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
 ---
 
 ## 🌟 Featured Projects
 
-### 🤖 Autonomous LLM Agent (In Progress)
 
-* Building an agent capable of multi-step reasoning and task execution
-* Integrating external tools (APIs, file system, etc.)
-* Exploring planning and memory mechanisms
-
----
-
-### 📚 RAG-based QA System
-
-* Implementing retrieval-augmented generation pipeline
-* Combining vector search with LLM reasoning
-* Focus on improving answer relevance and context grounding
-
----
-
-### ⚙️ LLM Application Experiments
-
-* Prototyping small LLM-powered tools
-* Exploring prompt design and workflow orchestration
-* Testing different model behaviors in practical scenarios
 
 ---
 
